@@ -1,7 +1,7 @@
 # TicketNest
 
 ## Executive Summary
-**TicketNest** is a comprehensive ticketing system simulating TicketMaster, designed for users, event organizers, and administrators to manage and interact with events, ticketing operations, and each other. **Users** can manage their preferences, purchase tickets, attend events, and submit reviews. **Event organizers** can create and manage events, configure various ticket types, and oversee ticket availability. **Administrators** handle customer service, including refunds, and analyze user activities and sales performance to optimize the platform’s operations. To facilitate these processes, the system includes essential entities such as **User**, **Event**, **Ticket**, **TicketType**, **Order**, **Preference**, **Reviews**, and **PaymentMethod**. This project allows for efficient event management, smooth ticket sales, and personalized user experiences.
+**TicketNest** is a comprehensive ticketing system simulating TicketMaster, designed for users, event organizers, and administrators to manage and interact with events, ticketing operations, and each other. **Users** can search for events, purchase tickets, and manage their orders. **Event organizers** can create and manage events, configure various ticket types, and oversee ticket availability. **Administrators** analyze user activities and sales performance to optimize the platform’s operations. To facilitate these processes, the system includes essential entities such as **User**, **Event**, **Ticket**, and **Order**. This project allows for efficient event management, smooth ticket sales, and personalized user experiences.
 
 ## User Guide
 
